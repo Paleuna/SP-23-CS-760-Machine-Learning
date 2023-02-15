@@ -1,0 +1,5 @@
+Here is the code for HW2 of CS760. 
+It includes codes for: 
+1) a revised version of decision tree (see formulation for details), with different visualization and evaluation;
+2) decision tree with sklearn;
+3) Lagrange Interpolation;
