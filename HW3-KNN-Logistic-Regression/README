@@ -1,0 +1,4 @@
+Here is the code for KNN and Logistic Regression, which includes:
+1) Implementation of both algorithm (for KNN both package and from scratch)
+2) 5-fold cross validation for both (accuracy, precision, and recall)
+3) ROC curve for both
